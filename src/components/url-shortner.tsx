@@ -1,7 +1,7 @@
-import axios from 'axios';
 import React from 'react';
 import { useState } from 'react';
 import {CopyToClipboard} from 'react-copy-to-clipboard';
+import axios from 'axios';
 import validator from 'validator';
 import api_url from "../api/api";
 
